@@ -1,0 +1,28 @@
+.counter{
+    width: fit-content;
+    padding: 1rem;
+    margin: auto;
+    text-align: center;
+    font-size: 15px;
+  }
+  
+  .counter button{
+    width: 80px;
+    height: 50px;
+    background-color: rgb(227, 59, 59);
+    color: white;
+    border-radius: 3px;
+    font-weight: bold;
+    border: none;
+  }
+  
+  .counter button:hover{
+    cursor: pointer;
+    background-color: rgb(147, 62, 62);
+  }
+  
+  .counter .terminar{
+    padding: 10px 0;
+    background-color: white ;
+    border-radius: 4px;
+  }
